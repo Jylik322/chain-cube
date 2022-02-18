@@ -1,0 +1,8 @@
+{
+  "play": "PLAY",
+  "score": "SCORE",
+  "record": "RECORD",
+  "gameOver": "GAME OVER",
+  "restart": "RESTART",
+  "menu": "MENU"
+}
